@@ -35,3 +35,5 @@ etiquetas/
 │   └── etiquetas.mp4        # Sample input video feed for testing
 │
 └── README.md
+
+<img width="520" height="306" alt="image" src="https://github.com/user-attachments/assets/b477ba7a-0643-49fa-bd1a-46b59a1cd683" />
